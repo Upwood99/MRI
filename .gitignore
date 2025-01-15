@@ -1,0 +1,5 @@
+IMAGE_processing/data/
+.ipynb_checkpoints/
+__pycache__/
+*.csv
+*.json
