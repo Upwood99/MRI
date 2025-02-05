@@ -1,4 +1,4 @@
-# README for IRM_Processing.ipynb
+# README 
 
 ## Overview
 
@@ -64,10 +64,6 @@ pip install opencv-python pandas numpy matplotlib seaborn tensorflow
 - Ensure that the dataset paths are correctly set up in the notebook to match your local directory structure.
 - The notebook is currently set up for binary classification (normal vs. pneumonia). If you wish to extend it for multi-class classification, you will need to modify the data loading and preprocessing steps accordingly.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgments
 
 - The dataset used in this notebook is from the Chest X-Ray Images (Pneumonia) dataset available on Kaggle.
@@ -75,8 +71,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any questions or suggestions, please contact the project maintainer at [your-email@example.com].
-
----
-
-This README provides a comprehensive overview of the `IRM_Processing.ipynb` notebook, including its structure, requirements, and usage instructions. It also includes notes on how to extend the project and acknowledges the sources of the dataset and tools used.
+For any questions or suggestions, please contact the project maintainer at zakaria.oukanna@hotmail.com.
